@@ -20,7 +20,7 @@ Used XGBoost and LightGBM to model superhost prediction and occupancy rates. Del
 Implemented a multi-layer perceptron model using TensorFlow on the MNIST dataset, achieving strong classification accuracy with clear visualizations.
 
 ## 💡 About Me
-I’m currently pursuing my MS in Business Analytics at Purdue University. My focus is on building meaningful digital experiences that blend technical depth, product intuition, and user empathy. I specialize in product lifecycle execution, data storytelling, and scalable analytics solutions.
+I’m a recent graduate in Business Analytics from Purdue University. I'm looking for Data Scientist role where I can apply my expertise in machine learning and model building.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/kratika-jain-b0244b46/)  
 
