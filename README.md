@@ -1,6 +1,6 @@
-# Kratika Jain – Product Analytics & Data Portfolio
+# Kratika Jain – Data Scientist
 
-Welcome! This is my personal portfolio showcasing real-world projects across digital marketing, predictive modeling, NLP, and user research. With 10 years of experience across finance, healthcare, and retail, I bring a product-thinking mindset to data-driven strategy, experimentation, and cross-functional collaboration.
+Welcome! This portfolio showcases my work in building scalable data science solutions, from TimeGAN-based forecasting to LLM sequence modeling. With over 3 years of experience at State Street, I specialize in translating complex business problems into high-performance models. My focus is on ML engineering rigor, utilizing Python and PyTorch to build automated pipelines that ensure model reliability and drive strategic growth
 
 ## 🔍 Featured Projects
 
